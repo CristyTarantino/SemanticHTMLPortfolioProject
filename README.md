@@ -25,7 +25,7 @@ If you've never used these elements, we recommend taking the [Front-End Formatio
 
 ## Live Demo
 
-Wondering what this project will look like when you've completed it? [Follow this link](https://codeschool-project-demos.github.io/SemanticHTMLPortfolioProject/) to see a live version of this project.
+Wondering what this project will look like when you've completed it? [Follow this link](https://cristytarantino.github.io/SemanticHTMLPortfolioProject/) to see a live version of this project.
 
 
 ## Getting Started
@@ -73,4 +73,4 @@ Putting this site up on GitHub pages is a bit different than some other projects
 git subtree push --prefix src origin gh-pages
 ```
 
-This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://cristytarantino.github.io/SemanticHTMLPortfolioProject`.
+This will push the `src` folder up to GitHub on the `gh-pages` branch. After that, you should be able to open up `http://username.github.io/SemanticHTMLPortfolioProject`.
